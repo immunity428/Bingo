@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "immunity428.github.io/[your-repository-name]",
+  "homepage": "immunity428.github.io/Bingo",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
